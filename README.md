@@ -18,9 +18,9 @@
 
 <h3 align="center">👇 Follow Me 👇</h3>
 <p align="center">
-  <a href="https://velog.io/@ooo1324"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ooo1324"/></a>
-<a href="mailto:rlathrkd1324@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rlathrkd1324@gmail.com"/></a>
-<a href="https://ooo1324.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white&link=https://ooo1324.itch.io/"/></a>
+  <a href="https://velog.io/@ooo1324"><img src="https://img.shields.io/badge/Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@ooo1324"/></a>
+<a href="mailto:rlathrkd1324@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=rlathrkd1324@gmail.com"/></a>
+<a href="https://ooo1324.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&link=https://ooo1324.itch.io/"/></a>
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ooo1324)](https://solved.ac/ooo1324/)
