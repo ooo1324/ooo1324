@@ -22,7 +22,9 @@
 <a href="mailto:rlathrkd1324@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rlathrkd1324@gmail.com"/></a>
 <a href="https://ooo1324.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white&link=https://ooo1324.itch.io/"/></a>
 <br>
-
+  
+<br>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ooo1324)](https://solved.ac/ooo1324/)
  
 <br>
